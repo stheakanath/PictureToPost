@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  PictureToPost
 //
-//  Created by Thomas Theakanath on 8/1/12.
+//  Created by Sony Theakanath on 8/1/12.
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
